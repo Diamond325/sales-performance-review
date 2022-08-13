@@ -1,4 +1,4 @@
-### Sales Performanc Review
+### Sales Performance Review
 
 
 ![Graphical Representation](views.png)
