@@ -8,3 +8,5 @@
 ![Graphical Representation](AreaChart.PNG)
 ### Column chart showing the number of orders on each month and the target result indicated in each column
 ![Graphical Representation](ColumnChart.PNG)
+### Guage chart showing website traffic, number of page reviews, conversion rate and new customers
+![Graphical Representation](GuageChart.PNG)
