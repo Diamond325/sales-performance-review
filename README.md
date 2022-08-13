@@ -1,4 +1,4 @@
-### Sample project for analyst
+### Analyst Project
 
 
 ![Graphical Representation](views.png)
